@@ -2,7 +2,6 @@ import ell
 from openai import OpenAI
 
 MODEL = "gemma2:2b"
-#MODEL = "tinyllama:latest"
 
 client = OpenAI(
 	base_url = "http://localhost:11434/v1",
