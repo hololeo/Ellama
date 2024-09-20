@@ -1,6 +1,6 @@
 <h1>Ellama = Ell + Ollama ❤️❤️</h1>
 
-All local. All Ell. Good times
+<h3>All local. All Ell. Good times</h3>
  
 
 <table>
