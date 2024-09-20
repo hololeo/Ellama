@@ -43,3 +43,11 @@ clicking ⭐ Star repo.
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td width="300"><img src="https://github.com/user-attachments/assets/706f7590-260e-42b1-9a5e-10e792b5e6ab" alt="ELL Meets Ella Icon"></td>
+    <td align="left" valign="top"><strong><a href="https://github.com/hololeo/Ellama/blob/main/ell-meets-ella.py">ell-meets-ella.py</a>
+    </strong>is a Python script that demonstrates how to get two AI bots to engage in a continuous conversation. The script showcases the creation of two distinct <strong>personas</strong> that interact with each other, generating an ongoing dialogue between the bots. This tool highlights how to structure autonomous conversations, making it ideal for developers experimenting with AI-to-AI interactions. By using <strong>Ell</strong> and <strong>Ollama</strong>, the script demonstrates how to create indefinite, engaging chats between AI models, perfect for understanding how bots communicate independently.</td>
+  </tr>
+</table>
+
