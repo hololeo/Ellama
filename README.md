@@ -29,7 +29,7 @@ clicking ⭐ Star repo.
 
 <table>
   <tr>
-    <td width="300"><img src="https://github.com/user-attachments/assets/706f7590-260e-42b1-9a5e-10e792b5e6ab" alt="ELL Joker Icon"></td>
+    <td width="300"><img src="https://github.com/user-attachments/assets/bb1f2942-601a-4957-aab8-2a7076b649e7" alt="ELL Joker Icon"></td>
     <td align="left" valign="top"><strong><a href="https://github.com/hololeo/Ellama/blob/main/ell-joker.py">ell-joker.py</a>
     </strong>is a Python script that generates and delivers jokes. It prompts a model for a <strong>humorous joke</strong> and then uses <strong>text-to-speech</strong> to speak the joke aloud. The script showcases tool calling by utilizing <strong>LLama 3.1</strong> and <strong>Ollama</strong> to run models locally. This makes it an ideal demonstration of combining AI language models with speech synthesis for developers or anyone who wants a quick laugh generated and voiced directly from their machine.</td>
   </tr>
@@ -42,6 +42,7 @@ clicking ⭐ Star repo.
     </strong>is a Python script that enables interactive chatting with an AI model. It showcases how to use <strong>Ell</strong> to facilitate <strong>conversational AI</strong> with memory, allowing the chatbot to retain and reference past interactions for more contextual and fluid conversations. This script demonstrates how to seamlessly integrate memory into chats, enhancing the chatbot's ability to provide more relevant responses. It's ideal for developers interested in creating dynamic, context-aware chat systems using <strong>Ollama</strong> and other local models.</td>
   </tr>
 </table>
+
 
 <table>
   <tr>
