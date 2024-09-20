@@ -2,7 +2,11 @@
 
 <h3>All local. All Ell. Good times</h3>
 
-If this work has been helpful to you, you can support it for free by clicking ⭐ to star the repository. Thanks, Hololeo!
+If this work has been helpful to you, you can support it for free by clicking ⭐ to star the repository. 
+
+Kind regards,
+
+Hololeo!
 
 <table>
   <tr>
