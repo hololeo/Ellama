@@ -48,6 +48,4 @@ All local. All Ell. Good times
 </table>
 
 
-If you find these scripts useful you can support it for free by 
-
-clicking ⭐ Star repo.
+If this work has been helpful to you, you can help out for free by clicking ⭐ to star the repository.
