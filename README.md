@@ -9,11 +9,11 @@ you can support it for free by
 clicking ⭐ Star repo.
 
 
-# ell-summarizer.py
+### ell-summarizer.py
 
 ell-summarizer.py is a Python script designed for efficient text summarization. 
 
-## Key Features
+### Key Features
 
 * **Generates concise bullet-point summaries** from input text
 * Utilizes **Ollama** to run the **Gemma 2B language model locally**
