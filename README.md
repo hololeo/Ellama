@@ -8,7 +8,7 @@ you can support it for free by
 
 clicking ⭐ Star repo.
 
-### ell-summarizer.py
+### ell-summarizer.py - Generates concise bullet-point summaries from input text
 
 <img src="https://github.com/user-attachments/assets/706f7590-260e-42b1-9a5e-10e792b5e6ab" width="303" height="303" alt="ELL Summarizer Icon">
 
