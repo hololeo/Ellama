@@ -9,7 +9,7 @@ Hololeo!
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/180f155c-6e32-42fa-b26d-6a1ed1381c12" alt="ELL Diffusion Icon"></td>
+    <td  width="300"><img src="https://github.com/user-attachments/assets/180f155c-6e32-42fa-b26d-6a1ed1381c12" alt="ELL Diffusion Icon"></td>
     <td align="left" valign="top"><strong><a href="https://github.com/hololeo/Ellama/blob/main/ell-diffusion.py">ell-diffusion.py</a>
     </strong>is a Python script that helps refine user input to create more effective prompts for <strong>Stable Diffusion</strong> image generation. By taking a user's initial prompt, the script generates an optimized and enhanced version, ensuring better results from the diffusion model. Using <strong>Ell</strong> and <strong>Ollama</strong>, this tool is perfect for developers and artists looking to get the most out of Stable Diffusion by improving the quality and specificity of their prompts.</td>
   </tr>
