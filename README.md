@@ -1,3 +1,3 @@
 Ellama = Ell + Ollama
 
-Adventures in Ell coming soon
+All local. All Ell. All good times
