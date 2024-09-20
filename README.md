@@ -1,4 +1,4 @@
-#Ellama = Ell + Ollama ❤️❤️
+<center>#Ellama = Ell + Ollama ❤️❤️</center>
 
 All local. All Ell. Good times
  
