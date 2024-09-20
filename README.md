@@ -1,6 +1,6 @@
 <h2>Ellama = Ell + Ollama = ❤️❤️</h2>
 
-<h3>All local. All Ell. Good times</h3>
+<h3>All LLocal. All Ell. Good times</h3>
 
 If this work has been helpful to you, you can support it for free by clicking ⭐ to star the repository. 
 
