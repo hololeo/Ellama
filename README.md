@@ -1,14 +1,7 @@
-Ellama = Ell + Ollama
+#Ellama = Ell + Ollama ❤️❤️
 
 All local. All Ell. Good times
-
-If you find these scripts useful
-
-you can support it for free by 
-
-clicking ⭐ Star repo.
-
-### ell-summarizer.py
+ 
 
 <table>
   <tr>
@@ -54,3 +47,7 @@ clicking ⭐ Star repo.
   </tr>
 </table>
 
+
+If you find these scripts useful you can support it for free by 
+
+clicking ⭐ Star repo.
