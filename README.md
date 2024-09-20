@@ -11,8 +11,8 @@ Hololeo!
 <table>
   <tr>
     <td  width="300"><img src="https://github.com/user-attachments/assets/39383f1b-6e8a-4761-93ed-14e93f02ec42" alt="ell-describe-adventure.py Icon"></td>
-    <td align="left" valign="top"><strong><a href="https://github.com/hololeo/Ellama/blob/main/ell-describe-adventure.py.py">ell-describe-adventure.py</a>
-    </strong>ell-employee-0.py https://github.com/hololeo/Ellama/blob/main/ell-employee-0.py is a Python script that generates a detailed script description from input information. The script uses the Ell library to locally run the Llama 3.1 model and demonstrates support for the Ollama tool, allowing users to create enhanced script descriptions with context-specific details. This automation enables consistent and accurate summaries of scripts by integrating AI-driven language generation capabilities within its functionality.</td>
+    <td align="left" valign="top"><strong><a href="https://github.com/hololeo/Ellama/blob/main/ell-describe-adventure.py.py">ell-employee-0.py</a>
+    </strong>ell-employee-0.py https://github.com/hololeo/Ellama/blob/main/ell-employee-0.py is a Python script that generates a script description from input information. The script uses the Ell library to locally run the Llama 3.1 model and demonstrates support for the Ollama tool, allowing users to create enhanced script descriptions. This automation enables us to create our own AI Employee!</td>
   </tr>
 </table>
 
