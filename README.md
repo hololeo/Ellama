@@ -35,3 +35,11 @@ clicking ⭐ Star repo.
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td width="300"><img src="https://github.com/user-attachments/assets/706f7590-260e-42b1-9a5e-10e792b5e6ab" alt="ELL Chatbot Icon"></td>
+    <td align="left" valign="top"><strong><a href="https://github.com/hololeo/Ellama/blob/main/ell-chatbot.py">ell-chatbot.py</a>
+    </strong>is a Python script that enables interactive chatting with an AI model. It showcases how to use <strong>Ell</strong> to facilitate <strong>conversational AI</strong> with memory, allowing the chatbot to retain and reference past interactions for more contextual and fluid conversations. This script demonstrates how to seamlessly integrate memory into chats, enhancing the chatbot's ability to provide more relevant responses. It's ideal for developers interested in creating dynamic, context-aware chat systems using <strong>Ollama</strong> and other local models.</td>
+  </tr>
+</table>
+
