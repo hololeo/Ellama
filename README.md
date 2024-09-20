@@ -12,7 +12,7 @@ clicking ⭐ Star repo.
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/706f7590-260e-42b1-9a5e-10e792b5e6ab" alt="ELL Summarizer Icon"></td>
+    <td width="300"><img src="https://github.com/user-attachments/assets/706f7590-260e-42b1-9a5e-10e792b5e6ab" alt="ELL Summarizer Icon"></td>
     <td align="left" valign="top"><strong><a href="https://github.com/hololeo/Ellama/blob/main/ell-summarizer.py">ell-summarizer.py</a>
     </strong>is a Python script designed for efficient text summarization. <strong>Generates concise bullet-point summaries</strong> from input text. Utilizes <strong>Ollama</strong> to run the <strong>Gemma 2B language model locally</strong>. Leverages the <strong>Ell library</strong> to rapidly create system and user prompts.<br><br>This tool is ideal for developers, researchers, or anyone needing quick, local text summarization without relying on cloud-based APIs.</td>
   </tr>
