@@ -4,8 +4,6 @@ import os
 
 MODEL = "llama3.1:8b"
 
-#MODEL = "qwen2.5:0.5b"
-MODEL = "qwen2.5:1.5b"
 client = OpenAI(
 	base_url = "http://localhost:11434/v1",
 	api_key = "ollama",
