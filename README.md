@@ -27,6 +27,7 @@ clicking ⭐ Star repo.
   </tr>
 </table>
 
+
 <table>
   <tr>
     <td width="300"><img src="https://github.com/user-attachments/assets/bb1f2942-601a-4957-aab8-2a7076b649e7" alt="ELL Joker Icon"></td>
@@ -37,16 +38,17 @@ clicking ⭐ Star repo.
 
 <table>
   <tr>
-    <td width="300"><img src="https://github.com/user-attachments/assets/706f7590-260e-42b1-9a5e-10e792b5e6ab" alt="ELL Chatbot Icon"></td>
+    <td width="300"><img src="https://github.com/user-attachments/assets/25ffe97c-6fe2-4d24-bbfe-736da0c098f7" alt="ELL Chatbot Icon"></td>
     <td align="left" valign="top"><strong><a href="https://github.com/hololeo/Ellama/blob/main/ell-chatbot.py">ell-chatbot.py</a>
     </strong>is a Python script that enables interactive chatting with an AI model. It showcases how to use <strong>Ell</strong> to facilitate <strong>conversational AI</strong> with memory, allowing the chatbot to retain and reference past interactions for more contextual and fluid conversations. This script demonstrates how to seamlessly integrate memory into chats, enhancing the chatbot's ability to provide more relevant responses. It's ideal for developers interested in creating dynamic, context-aware chat systems using <strong>Ollama</strong> and other local models.</td>
   </tr>
 </table>
 
 
+
 <table>
   <tr>
-    <td width="300"><img src="https://github.com/user-attachments/assets/706f7590-260e-42b1-9a5e-10e792b5e6ab" alt="ELL Meets Ella Icon"></td>
+    <td width="300"><img src="https://github.com/user-attachments/assets/a5b6ed58-a340-4947-8f0b-9060e567be1d" alt="ELL Meets Ella Icon"></td>
     <td align="left" valign="top"><strong><a href="https://github.com/hololeo/Ellama/blob/main/ell-meets-ella.py">ell-meets-ella.py</a>
     </strong>is a Python script that demonstrates how to get two AI bots to engage in a continuous conversation. The script showcases the creation of two distinct <strong>personas</strong> that interact with each other, generating an ongoing dialogue between the bots. This tool highlights how to structure autonomous conversations, making it ideal for developers experimenting with AI-to-AI interactions. By using <strong>Ell</strong> and <strong>Ollama</strong>, the script demonstrates how to create indefinite, engaging chats between AI models, perfect for understanding how bots communicate independently.</td>
   </tr>
