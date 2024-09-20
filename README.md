@@ -48,6 +48,6 @@
 </table>
 
 
-If this work has been helpful to you, you can help out for free by clicking ⭐ to star the repository.
+<h2>If this work has been helpful to you, you can help out for free by clicking ⭐ to star the repository.</h2>
 
 Thanks, Hololeo!
