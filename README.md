@@ -50,4 +50,4 @@ All local. All Ell. Good times
 
 If this work has been helpful to you, you can help out for free by clicking ⭐ to star the repository.
 
-- hololeo
+Thanks, Hololeo!
