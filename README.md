@@ -8,7 +8,9 @@ you can support it for free by
 
 clicking ⭐ Star repo.
 
-![ell-summarizer](https://github.com/user-attachments/assets/706f7590-260e-42b1-9a5e-10e792b5e6ab)
+
+
+<img src="https://github.com/user-attachments/assets/706f7590-260e-42b1-9a5e-10e792b5e6ab" width="30" height="30" alt="ELL Summarizer Icon">
 
 ### ell-summarizer.py
 
