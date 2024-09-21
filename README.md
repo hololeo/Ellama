@@ -2,10 +2,20 @@
 
 <h3>All LLocal. All Ell. Good times</h3>
 
-If this work has been helpful to you, you can support it for free by clicking ⭐ to star the repository. 
+If this work has been helpful to you, you can support it for free by clicking ⭐ to star the repository.
 
 Kind regards,
 Hololeo!
+
+
+
+<table>
+  <tr>
+    <td  width="300"><img src="https://github.com/user-attachments/assets/b7de16ce-d351-4cf5-bffa-2066c262ee91" alt="ell-strawberry.py Icon"></td>
+    <td align="left" valign="top"><strong><a href="https://github.com/hololeo/Ellama/blob/main/ell-strawberry.py">ell-strawberry.py</a>
+    </strong>ell-strawberry.py tackles the most pressing problem to humanity: Learning how many r's are in the word strawberry! Using Ell and Ollama we create a chain of thought prompt to solve this most puzzling riddle!</td>
+  </tr>
+</table>
 
 
 <table>
