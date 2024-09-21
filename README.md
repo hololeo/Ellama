@@ -75,7 +75,7 @@ Hololeo!
 <table>
   <tr>
     <td width="300"><img src="https://github.com/user-attachments/assets/a5b6ed58-a340-4947-8f0b-9060e567be1d" alt="ELL Meets Ella Icon"></td>
-    <td align="left" valign="top"><h3>1/h3><strong><a href="https://github.com/hololeo/Ellama/blob/main/ell-meets-ella.py">ell-meets-ella.py</a>
+    <td align="left" valign="top"><h3>1</h3><strong><a href="https://github.com/hololeo/Ellama/blob/main/ell-meets-ella.py">ell-meets-ella.py</a>
     </strong>is a Python script that demonstrates how to get two AI bots to engage in a continuous conversation. The script showcases the creation of two distinct <strong>personas</strong> that interact with each other, generating an ongoing dialogue between the bots. This tool highlights how to structure autonomous conversations, making it ideal for developers experimenting with AI-to-AI interactions. By using <strong>Ell</strong> and <strong>Ollama</strong>, the script demonstrates how to create indefinite, engaging chats between AI models, perfect for understanding how bots communicate independently.</td>
   </tr>
 </table>
