@@ -12,7 +12,7 @@ Hololeo!
 <table>
   <tr>
     <td  width="300"><img src="https://github.com/user-attachments/assets/b7de16ce-d351-4cf5-bffa-2066c262ee91" alt="ell-strawberry.py Icon"></td>
-    <td align="left" valign="top"><h3>1</h3><strong><a href="https://github.com/hololeo/Ellama/blob/main/ell-strawberry.py">ell-strawberry.py</a>
+    <td align="left" valign="top"><h3>8</h3><strong><a href="https://github.com/hololeo/Ellama/blob/main/ell-strawberry.py">ell-strawberry.py</a>
     </strong>ell-strawberry.py tackles the most pressing problem to humanity: Learning how many r's are in the word strawberry! Using Ell and Ollama we create a chain of thought prompt to solve this most puzzling riddle!</td>
   </tr>
 </table>
@@ -21,7 +21,7 @@ Hololeo!
 <table>
   <tr>
     <td  width="300"><img src="https://github.com/user-attachments/assets/39383f1b-6e8a-4761-93ed-14e93f02ec42" alt="ell-describe-adventure.py Icon"></td>
-    <td align="left" valign="top"><strong><a href="https://github.com/hololeo/Ellama/blob/main/ell-employee-0.py">ell-employee-0.py</a>
+    <td align="left" valign="top"><h3>7</h3><strong><a href="https://github.com/hololeo/Ellama/blob/main/ell-employee-0.py">ell-employee-0.py</a>
     </strong>ell-employee-0.py is a Python script that generates a script description from input information. The script uses the Ell library to locally run the Llama 3.1 model and demonstrates support for the Ollama tool, allowing users to create enhanced script descriptions. This automation enables us to create our own AI Employee!</td>
   </tr>
 </table>
@@ -29,7 +29,7 @@ Hololeo!
 <table>
   <tr>
     <td  width="300"><img src="https://github.com/user-attachments/assets/180f155c-6e32-42fa-b26d-6a1ed1381c12" alt="ELL Diffusion Icon"></td>
-    <td align="left" valign="top"><strong><a href="https://github.com/hololeo/Ellama/blob/main/ell-diffusion.py">ell-diffusion.py</a>
+    <td align="left" valign="top"><h3>6</h3><strong><a href="https://github.com/hololeo/Ellama/blob/main/ell-diffusion.py">ell-diffusion.py</a>
     </strong>is a Python script that helps refine user input to create more effective prompts for <strong>Stable Diffusion</strong> image generation. By taking a user's initial prompt, the script generates an optimized and enhanced version, ensuring better results from the diffusion model. Using <strong>Ell</strong> and <strong>Ollama</strong>, this tool is perfect for developers and artists looking to get the most out of Stable Diffusion by improving the quality and specificity of their prompts.</td>
   </tr>
 </table>
