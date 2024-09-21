@@ -12,7 +12,7 @@ Hololeo!
 <table>
   <tr>
     <td  width="300"><img src="https://github.com/user-attachments/assets/b7de16ce-d351-4cf5-bffa-2066c262ee91" alt="ell-strawberry.py Icon"></td>
-    <td align="left" valign="top"><strong><a href="https://github.com/hololeo/Ellama/blob/main/ell-strawberry.py">ell-strawberry.py</a>
+    <td align="left" valign="top"><h3>1</h3><strong><a href="https://github.com/hololeo/Ellama/blob/main/ell-strawberry.py">ell-strawberry.py</a>
     </strong>ell-strawberry.py tackles the most pressing problem to humanity: Learning how many r's are in the word strawberry! Using Ell and Ollama we create a chain of thought prompt to solve this most puzzling riddle!</td>
   </tr>
 </table>
