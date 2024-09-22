@@ -18,18 +18,6 @@ client = OpenAI(
 ell.config.verbose = True
 ell.config.register_model(MODEL, client)
 
-@ell.tool()
-def say_it(text: str):
-    print (f"here is your joke:{text}")
-    os.system(f"say {text}")
-    return "Done"
-
-@ell.tool()
-def play_mp3(file_path: str):
-    print (f">> playing:{file_path}")
-    os.system(f"afplay {file_path}")
-    return "Done"
-
 # Function to get just the current time
 from datetime import datetime
 def get_time_only():
