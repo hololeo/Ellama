@@ -8,6 +8,15 @@ Kind regards,
 Hololeo!
 
 
+<table>
+  <tr>
+    <td  width="300"><img src="https://github.com/user-attachments/assets/a7b90212-09dd-47ec-96ab-eac5deb16144" alt="ell-rag-txt Icon"></td>
+    <td align="left" valign="top"><h3>10</h3><strong><a href="https://github.com/hololeo/Ellama/blob/main/ell-rag-txt.py">ell rag txt</a>
+    </strong>ell-rag-txt allows you to prompt any text file. Just put it in input.txt and set up your user prompt question. It implements the RAG pattern to chat with the document. Very simple implementation using context injection.</td>
+  </tr>
+</table>
+
+
 
 <table>
   <tr>
