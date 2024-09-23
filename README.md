@@ -13,7 +13,7 @@ Hololeo!!
   <tr>
     <td  width="300"><img src="https://github.com/user-attachments/assets/005f5cd4-434e-4d73-8b75-afbf92f6ab15" alt="ell-rag-audio Icon"></td>
     <td align="left" valign="top"><h3>11</h3><strong><a href="https://github.com/hololeo/Ellama/blob/main/ell-rag-audio.py">ell rag txt</a>
-    </strong>ell-rag-audio allows you to prompt an audio file! Just put in a transcript.txt and set your user prompt. Its smart to locate the audio timecode that relates to the prompt. Very simple implementation using context injection and clever prompt engineering.</td>
+    </strong>ell-rag-audio allows you to prompt an audio file! Just put in a transcript.txt (whisper works great) and set your user prompt. Its smart to locate the audio timecode that relates to the prompt. Very simple implementation using context injection and clever prompt engineering.</td>
   </tr>
 </table>
 
