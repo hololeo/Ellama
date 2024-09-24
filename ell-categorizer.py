@@ -19,6 +19,7 @@ def save_response_to_file(response, filename='categories.json'):
     with open(filename, 'w') as file:
         file.write(response)
 
+# prompt hat tip: @MrDragonFox
 @ell.simple(model=MODEL, client=client)
 def classify_prompts (prompt:str):
     """Your name is Ell_categorizer. You are a helpful assistant that categorizes various types of prompts or ideas."""
