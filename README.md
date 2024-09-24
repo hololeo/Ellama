@@ -7,6 +7,13 @@ If this work has been helpful to you, you can support it for free by clicking тн
 Kind regards,
 Hololeo!!
 
+<table>
+  <tr>
+    <td  width="300"><img src="https://github.com/user-attachments/assets/b03f4878-5c80-47a5-9640-aa0e31ee6cae" alt="ell-categorizer Icon"></td>
+    <td align="left" valign="top"><h3>12</h3><strong><a href="https://github.com/hololeo/Ellama/blob/main/ell-categorizer.py">Ell Rag Audio</a>
+    </strong>ell-categorizer categorize ANY data into ANY json format of your design! Just use a clear, specific prompt and provide some training examples. The approach can scale to thousands of lines if you batch in your data bit by bit. Ell Categorizer is a powerful tool in your AI bag-of-tricks!</td>
+  </tr>
+</table>
 
 
 <table>
